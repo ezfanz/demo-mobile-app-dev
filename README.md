@@ -95,6 +95,34 @@ Located in:
 ```
 /mobile-bruno/
 ```
+🛠 How to Install Bruno (If Not Installed)
+Bruno is a modern open-source API client (like Postman or Insomnia) used for creating and running collections.
+
+👉 Download Bruno here:
+https://www.usebruno.com/downloads
+
+Choose the version based on your OS (Windows, macOS, Linux).
+
+✅ How to Use:
+Open Bruno
+
+Load the .bru files from the /mobile-bruno/ folder:
+
+Get Movies.bru
+
+Get Movies By Id.bru
+
+Get Seats.bru
+
+Run the requests to test your backend API functionality:
+
+Fetch movie list
+
+View seat availability
+
+Simulate seat locking
+
+Bruno automatically reads folder-based collections — no import/export needed.
 
 **To test APIs:**
 
