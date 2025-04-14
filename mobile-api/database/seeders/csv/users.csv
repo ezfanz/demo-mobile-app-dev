@@ -1,0 +1,3 @@
+id,name,email,password
+1,John Doe,john@example.com,$2y$10$examplebcrypt1
+2,Jane Smith,jane@example.com,$2y$10$examplebcrypt2

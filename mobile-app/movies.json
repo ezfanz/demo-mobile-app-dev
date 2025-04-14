@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Venom: Let There Be Carnage",
+      "duration": 97,
+      "rating": 4.5,
+      "description": "Eddie Brock is still struggling to coexist with Venom.",
+      "poster": "https://image.tmdb.org/t/p/original/venom.jpg"
+    },
+    {
+      "id": 2,
+      "title": "007: No Time To Die",
+      "duration": 163,
+      "rating": 4.8,
+      "description": "James Bond has left active service...",
+      "poster": "https://image.tmdb.org/t/p/original/bond.jpg"
+    }
+  ]
+  

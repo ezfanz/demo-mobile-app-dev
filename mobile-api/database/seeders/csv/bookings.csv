@@ -1,0 +1,5 @@
+user_id,seat_id,cinema_hall_id,booking_time,location,cinema_location,created_at,updated_at
+1,1,1,2025-04-14 09:20,Kuala Lumpur,GSC Mid Valley,2025-04-13 11:55,2025-04-13 11:55
+1,2,2,2025-04-14 11:40,Petaling Jaya,TGV 1 Utama,2025-04-13 11:55,2025-04-13 11:55
+1,3,2,2025-04-14 13:30,Putrajaya,GSC IOI City Mall,2025-04-13 11:55,2025-04-13 11:55
+1,4,3,2025-04-14 15:00,Shah Alam,MBO Setia City Mall,2025-04-13 11:55,2025-04-13 11:55
