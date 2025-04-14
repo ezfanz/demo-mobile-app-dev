@@ -20,7 +20,7 @@ This is a full-stack cinema booking system developed for demo purposes using **L
 ## 📂 Project Structure
 
 ```
-/backend          -> Laravel source code
+/mobile-api         -> Laravel source code
 /mobile-app       -> React Native mobile app (using Expo)
 ```
 
