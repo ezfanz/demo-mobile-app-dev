@@ -31,7 +31,7 @@ This is a full-stack cinema booking system developed for demo purposes using **L
 1. Clone the repo and install dependencies:
 
 ```bash
-cd backend
+cd mobile-api
 composer install
 cp .env.example .env
 php artisan key:generate
